@@ -1,3 +1,7 @@
 <resources>
-    <string name="app_name">ExampleDataManager</string>
+    <string name="app_name">Управление данными</string>
+    <string name="form_button_save">Сохранить</string>
+    <string name="form_button_read">Прочитать</string>
+    <string name="form_text_edit_data_hint">Введите текст...</string>
+    <string name="toast_save_file_ok">Файл сохранен</string>
 </resources>
